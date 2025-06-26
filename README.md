@@ -1,2 +1,2 @@
 # git-test
-A test repository for practicing Git and GitHub workflows.
+A test repository for practicing Git and GitHub workflows. (Successfully modified)
